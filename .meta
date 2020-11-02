@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "node-cpphello": "git@github.com:crguezl/node-cpphello.git"
+  }
+}
